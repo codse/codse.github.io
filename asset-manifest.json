@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d6a38828.chunk.css",
+    "main.js": "/static/js/main.d2eaae26.chunk.js",
+    "main.js.map": "/static/js/main.d2eaae26.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.926f6360.js",
+    "runtime-main.js.map": "/static/js/runtime-main.926f6360.js.map",
+    "static/js/2.5311f4b5.chunk.js": "/static/js/2.5311f4b5.chunk.js",
+    "static/js/2.5311f4b5.chunk.js.map": "/static/js/2.5311f4b5.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.459968c067855c1079b9747201d216c3.js": "/precache-manifest.459968c067855c1079b9747201d216c3.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.d6a38828.chunk.css.map": "/static/css/main.d6a38828.chunk.css.map",
+    "static/media/codse_logo.png": "/static/media/codse_logo.95c46bac.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.926f6360.js",
+    "static/js/2.5311f4b5.chunk.js",
+    "static/css/main.d6a38828.chunk.css",
+    "static/js/main.d2eaae26.chunk.js"
+  ]
+}
