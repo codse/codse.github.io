@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/static/css/main.97e007ce.chunk.css",
-    "main.js": "/static/js/main.b54b4356.chunk.js",
-    "main.js.map": "/static/js/main.b54b4356.chunk.js.map",
+    "main.css": "/static/css/main.72c5355d.chunk.css",
+    "main.js": "/static/js/main.9002ab1b.chunk.js",
+    "main.js.map": "/static/js/main.9002ab1b.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.926f6360.js",
     "runtime-main.js.map": "/static/js/runtime-main.926f6360.js.map",
-    "static/js/2.1b7c594c.chunk.js": "/static/js/2.1b7c594c.chunk.js",
-    "static/js/2.1b7c594c.chunk.js.map": "/static/js/2.1b7c594c.chunk.js.map",
+    "static/js/2.0d0da3ba.chunk.js": "/static/js/2.0d0da3ba.chunk.js",
+    "static/js/2.0d0da3ba.chunk.js.map": "/static/js/2.0d0da3ba.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.fc7390c96595e0cc599972f3c68dbb7b.js": "/precache-manifest.fc7390c96595e0cc599972f3c68dbb7b.js",
+    "precache-manifest.0cf6ee66386fd02b573dd71d0a1736b8.js": "/precache-manifest.0cf6ee66386fd02b573dd71d0a1736b8.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/main.97e007ce.chunk.css.map": "/static/css/main.97e007ce.chunk.css.map",
+    "static/css/main.72c5355d.chunk.css.map": "/static/css/main.72c5355d.chunk.css.map",
     "static/media/codse_logo.png": "/static/media/codse_logo.95c46bac.png"
   },
   "entrypoints": [
     "static/js/runtime-main.926f6360.js",
-    "static/js/2.1b7c594c.chunk.js",
-    "static/css/main.97e007ce.chunk.css",
-    "static/js/main.b54b4356.chunk.js"
+    "static/js/2.0d0da3ba.chunk.js",
+    "static/css/main.72c5355d.chunk.css",
+    "static/js/main.9002ab1b.chunk.js"
   ]
 }
